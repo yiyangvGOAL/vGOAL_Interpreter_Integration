@@ -1,0 +1,13 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Editor / OS / backup files
+.idea/
+.claude/
+.DS_Store
+*.bak
+
+# Virtual environments
+venv/
+.venv/
